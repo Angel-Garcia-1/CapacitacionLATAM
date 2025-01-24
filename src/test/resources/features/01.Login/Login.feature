@@ -21,3 +21,5 @@ Feature:Ingreso a pagina web
             | Usuario | Clave   |
 
     @ValidarBotonIngresar
+
+    @ValidarBotonIngresar
