@@ -19,3 +19,5 @@ Feature:Ingreso a pagina web
         Then Usuario visualiza los campos de la pagina
             | Campo 1 | Campo 2 |
             | Usuario | Clave   |
+
+    @ValidarBotonIngresar
