@@ -1,11 +1,7 @@
-package starter.stepDefinitions;
+package starter.stepDefinitions.login;
 
 import io.cucumber.java.en.Given;
-import net.serenitybdd.model.environment.EnvironmentSpecificConfiguration;
 import net.serenitybdd.screenplay.actions.Open;
-import net.serenitybdd.screenplay.actions.OpenPage;
-import net.thucydides.model.environment.SystemEnvironmentVariables;
-import net.thucydides.model.util.EnvironmentVariables;
 
 import static net.serenitybdd.screenplay.actors.OnStage.theActorCalled;
 
