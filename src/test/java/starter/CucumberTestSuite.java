@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"}
         ,features = "src/test/resources/features/"
         ,glue = "starter/stepDefinitions"
-        ,tags = "@CP01-Search"
+        ,tags = "@CP02-Search"
 )
 
 public class CucumberTestSuite {
